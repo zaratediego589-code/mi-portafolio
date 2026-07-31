@@ -734,3 +734,33 @@ nav.nav-scroll {
     border-radius: 20px;
     transition: width 1.5s ease;
 }
+
+.btn-proyecto{
+
+    display:inline-block;
+
+    margin-top:20px;
+
+    padding:12px 22px;
+
+    background:#2563eb;
+
+    color:white;
+
+    text-decoration:none;
+
+    border-radius:8px;
+
+    font-weight:bold;
+
+    transition:.3s;
+
+}
+
+.btn-proyecto:hover{
+
+    background:#1d4ed8;
+
+    transform:translateY(-3px);
+
+}
